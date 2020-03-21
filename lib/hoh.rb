@@ -43,6 +43,7 @@ def naming_system
 }
  }
       }
+ }
   {
     :label => "Family",
       :sub_category => {
