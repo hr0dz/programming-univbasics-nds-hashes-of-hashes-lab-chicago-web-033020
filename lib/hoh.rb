@@ -59,7 +59,7 @@ def naming_system
     :sub_category => nil
 }
 
-hoh
+HoH
 
   # Remember:
   #  Kingdom
