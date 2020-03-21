@@ -31,7 +31,7 @@
 # }
 
 def naming_system
- hoh =  {
+ hoh =  { 
    PORTION_1 =
     :label => "Kingdom",
       :sub_category => {
