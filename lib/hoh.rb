@@ -51,9 +51,9 @@ def naming_system
                     }
                 }
 }
- }
-      }
- }
+}
+}
+}
 }
 }
 
